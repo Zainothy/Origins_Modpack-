@@ -39,10 +39,15 @@ Go in the mod Config and set "Dynamic Lights" to fastest if you want to use dyna
 # Credits
   ## Shaders:
   [Complementary Unbound, EminGT](https://modrinth.com/shader/complementary-unbound)
+  
   [Complementary Reimagined, EminGT](https://modrinth.com/shader/complementary-reimagined/version/latest)
+  
   [Rethinking Voxels, gri573](https://modrinth.com/shader/rethinking-voxels)
+  
   [Photon](https://github.com/sixthsurge/photon/)
+  
   [Kappa Shader, rre36](https://www.curseforge.com/minecraft/shaders/kappa-shader-by-rre36)
+  
   [Nostalgia Shader, rre36](https://modrinth.com/shader/nostalgia-shader/version/5.0)
 
 
