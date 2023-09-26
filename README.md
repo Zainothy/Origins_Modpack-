@@ -1,4 +1,4 @@
-**# Origins Modpack
+# Origins Modpack
 This is the Origins modpack that I created for my Friends SMP, it adds a nice overhaul whilst still staying True to the Original Game, and (of course) has the Origins Mod & Extra Origins
 
 # Setup Guide 
@@ -36,4 +36,4 @@ This is likely caused by LambDynamic Lights:
 Go in the mod Config and set "Dynamic Lights" to fastest if you want to use dynamic lights, if you don't care: set it to off
 (If you are using complementary shaders, or any shaders with dynamic lights: You don't need lambdynamiclights enabled)
 
-**
+
