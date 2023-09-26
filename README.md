@@ -2,16 +2,15 @@
 This is the Origins modpack that I created for my Friends SMP, it adds a nice overhaul whilst still staying True to the Original Game, and (of course) has the Origins Mod & Extra Origins
 
 # Setup Guide 
-**
-- Download [Prism Launcher](https://prismlauncher.org) 
+
+- **Download [Prism Launcher](https://prismlauncher.org) 
 - Download the latest modpack from #releases 
 - after installing prism launcher, hit new instance/ add instance 
 - Hit import 
 - select "browse"
 - select the zip/.mrpack file for the modpack 
 - if it asks you to download some files whilst it installs, put them in your downloads folder. Prism will find it 
-- You can now launch the instance and connect to the server
-**
+- You can now launch the instance and connect to the server**
 # FAQ:
 **
 ### How do I setup:
@@ -35,9 +34,5 @@ Please install the jatest version of Java 20/ Java 17 from [Adoptium](https://ad
 ### My FPS is terrible: 
 This is likely caused by LambDynamic Lights: 
 Go in the mod Config and set "Dynamic Lights" to fastest if you want to use dynamic lights, if you don't care: set it to off
-(If you are using complementary shaders, or any shaders with dynamic lights: You don't need lambdynamiclights enabled) 
- 
-
-
-**
+(If you are using complementary shaders, or any shaders with dynamic lights: You don't need lambdynamiclights enabled)**
 
