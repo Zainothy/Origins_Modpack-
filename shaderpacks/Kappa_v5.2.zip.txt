@@ -1,0 +1,9 @@
+#Mon Sep 25 00:51:11 BST 2023
+resourcepackReflectionsEnabled=true
+ssptEmissionMode=2
+pomSamples=64
+motionblurToggle=false
+fogDensityMult=0.1
+labEmissionCurve=2.0
+vertexAttributeFix=true
+fogVolumeEnabled=false
