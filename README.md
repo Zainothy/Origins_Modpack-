@@ -3,7 +3,7 @@ This is the Origins modpack that I created for my Friends SMP, it adds a nice ov
 
 # Setup Guide 
 
-- Download [Prism Launcher](https://prismlauncher.org) 
+- Download [Prism Launcher](https://prismlauncher.org) or [ATLauncher](https://atlauncher.com/)
 - Download the latest modpack from #releases 
 - after installing prism launcher, hit new instance/ add instance 
 - Hit import 
@@ -14,7 +14,7 @@ This is the Origins modpack that I created for my Friends SMP, it adds a nice ov
 # FAQ:
 
 ### How do I setup:
-Please follow this setup guide: https://discord.com/channels/1153357258105815112/1153714561816465428/1153950646412771328 in the [Discord Server](https://discord.gg/cNGDMjehp5)
+Please follow [this setup guide](https://discord.com/channels/1153357258105815112/1153714561816465428/1153950646412771328) in the [Discord Server](https://discord.gg/cNGDMjehp5)
 
 ### I get an error when trying to join the server: 
 Please make sure you are using the latest version of the modpack from #releases in the  [Discord Server](https://discord.gg/cNGDMjehp5)
