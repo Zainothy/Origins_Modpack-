@@ -22,9 +22,6 @@ Please make sure you are using the latest version of the modpack from #releases 
 ### What is the IP:
 Please read the pinned post in #announcement-stuff of the [Discord Server](https://discord.gg/cNGDMjehp5)
 
-### What is prism launcher:
-Prism is a Minecraft launcher that allows you to load multiple instances of Minecraft and install modpacks. It is focused on user freedom and redistributability: [Prism Launcher](https://prismlauncher.org)
-
 ### I get a java error when trying to launch the game:
 Enable skip  java compatibility checks in Prism Launcher>Settings> Java 
 
