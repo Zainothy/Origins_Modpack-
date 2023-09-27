@@ -669,6 +669,10 @@ file = ".fabric/processedMods/reach-entity-attributes-2.4.0-11935e433c6382b0.jar
 hash = "15afddcede915827dbd045bd727671267934920e7590fc4f0032db2bf99404f8"
 
 [[files]]
+file = ".fabric/processedMods/satin-1.13.0-afe5611cbfb38cd5.jar"
+hash = "a69ff689ef681bce265deea15a829f89313fa5af4f2e6a0a6984281cac682dde"
+
+[[files]]
 file = ".fabric/processedMods/spruceui-5.0.0+1.20-a7e7164e506142b1.jar"
 hash = "33cd2633f38cbeacabe634fb6a2f94e3211d85b1da0f2535f831432d79424f11"
 
@@ -714,7 +718,7 @@ hash = "0240a83921103233e8d9344673819d6a5606b5a1076d1a5db6344f38be3d00af"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/class_5689.class"
-hash = "bcb68abbd8c7521f4fcdd62d9ec1010b54d85c0e30d66972eb5adf978c577330"
+hash = "7e6a3b7691b59547a64ead2f9f888fd7ba5a3dc0c50116d68872aa4d0babcc6c"
 
 [[files]]
 file = ".replay_cache/raw%5C2023_09_24_19_39_11%2Emcpr/recording.tmcpr.crc32"
@@ -1737,6 +1741,10 @@ file = "config/biomemakeover.json"
 hash = "aae1467c84af6e94a1a556c849254b88e033e9926f5f46073fa6b5db88abf409"
 
 [[files]]
+file = "config/blur.json"
+hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
+
+[[files]]
 file = "config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
@@ -1838,7 +1846,7 @@ hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "30a286b4d2cfae840a3ccd2b69ced3d063b663cc8577e67d34be9e91f434d28f"
+hash = "c24967905822ac4fb0eca01f8d5ef57b2e56e0067b01da11a12322edb9ee6a8a"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -1882,7 +1890,7 @@ hash = "b19dee2c49662c61a7899ee5f545fb788015c3c00c8e7ec3401c77efcb6a9008"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "68894f2f7ff4e3d93b2e35433e9cb3c7bb2f761985efd82ad3f619655c2c54a1"
+hash = "d30f8385c137c68a0625247d95a4e880c2050630decda478d73836b32aaec983"
 
 [[files]]
 file = "config/invmove.json"
@@ -1898,7 +1906,7 @@ hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
 
 [[files]]
 file = "config/iris.properties"
-hash = "720f359af7b24fecb8135a17b9698502fc2688313f097a0dda00e3d63cda407b"
+hash = "5ab37bec9e99ba89930a04453cbca67562281fb6eb27f9d10d2bdabb39b31a2e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -2006,7 +2014,7 @@ hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "69f7674e210fa9fe95c712a5e1be616ad8e13a1672be7c242087d8fbc0b2b74b"
+hash = "a19f3fadbe7a0c4b46eefead92811b44e856a4f78ac3dbb5389455161205ceb0"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -2058,11 +2066,11 @@ hash = "6e88824fbdb0518faf363a123a5e8f23fbe76c622b0c8eb7b7273f94a9371e5b"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "35f1b8d97021c7f49a0184e9f2deb9115e79ba909aa4bae40b22b17bf98e5cde"
+hash = "8de840d32176f7d47aa4472398995819ab3e288916f94b4b37f31ad9fcdff6de"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b0bbcd9658db2613486d09e4a65b3ab7377bc71b115b48f8b0093a4d44086eb2"
+hash = "3fca5615309b484f3c352f47bd31b951b30ac83d67c84b62fbc6c1d627b109f0"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -2142,7 +2150,7 @@ hash = "6c4932523a4331f8b18a025ff78d4fae7ed80ce1a39310255a12effb8bc58641"
 
 [[files]]
 file = "instance.json"
-hash = "6ab93b44595c3a9234618482adc3cd6d8a91f1587b8bb8690d5a7a175c2a2a1f"
+hash = "eb2247765fc18ecfd686f2bb4f76ee36b6f8722109ab21a65a05be61e19f638d"
 
 [[files]]
 file = "irisUpdateInfo.json"
@@ -2193,8 +2201,12 @@ file = "logs/2023-09-26-5.log.gz"
 hash = "a25614b3fc97f8c81c644620630537e87cc11fcf1aa590e2a7cc9069ebab84da"
 
 [[files]]
+file = "logs/2023-09-26-6.log.gz"
+hash = "34d3221cb02421658ea5d935ab511e7dd8e10413be445410c8d8f0e3b8622a13"
+
+[[files]]
 file = "logs/latest.log"
-hash = "4f257a620e5a71854ed30da835330cf8facb49910a88c52fe63803b543075f9d"
+hash = "80971315aaf8e79d008c634adade4ed0335be48813ce6a7161a8255bec07eaa6"
 
 [[files]]
 file = "logs/rei-issues.log"
@@ -2202,7 +2214,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "logs/rei.log"
-hash = "9e15e2a3de3b59a94fd13b3443e239899b189031c7efa899bb9e74c9e83c4a54"
+hash = "7d87ce8a7c3e33d594c845c7e91facc03815f27cf5cb0336fec7558e31af54a3"
 
 [[files]]
 file = "mods/3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
@@ -2215,6 +2227,10 @@ hash = "a2397a6596cf52c5244b4485ffb3d679eb3953a5dcb3cac171c7b59b6d3767ff"
 [[files]]
 file = "mods/AmbientSounds_FABRIC_v5.2.22_mc1.20.1.jar"
 hash = "06a9666c89091e1856a6c0ad8a206334aa851c72fa2ae0b78e3e15abaf4c5289"
+
+[[files]]
+file = "mods/BetterAdvancements-Fabric-1.20.1-0.3.2.161.jar"
+hash = "30f96def18c54a246432f49a7c12abc433f166cca9189f33fbbaa399e1adc445"
 
 [[files]]
 file = "mods/BetterThirdPerson-Fabric-1.20-1.9.0.jar"
@@ -2290,7 +2306,7 @@ hash = "8b8dee1f8100096ff708b1f1b97b06871a184105cbe6a09618623c204aad3441"
 
 [[files]]
 file = "mods/NE-1.20.1-1.9.0.jar"
-hash = "2b5cb17ad407f5fde3c471c231c406ee0e75130ace58227d624fe14b6e910c2f"
+hash = "4c134f6235930561bb7110a8042ed19e188b2e3d27c0ee69bb47524f518960db"
 
 [[files]]
 file = "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
@@ -2385,16 +2401,16 @@ file = "mods/better-end-4.0.10.jar"
 hash = "80d574fb43473cbe84b5fd58c59efee4c7abeebfab9fcc2811ed2efc5bf52908"
 
 [[files]]
-file = "mods/betterfpsdist-fabric-1.20.1-3.9.jar"
-hash = "8421966e88b214b31f47dc8c8b4cff88e1d56b3d83511617b0b2472fb15350d1"
-
-[[files]]
 file = "mods/bettermounthud-1.2.2.jar"
 hash = "5de386555011840070dbbe7942422a8247b0b30a9d6d06d21c3c188ae53dde2f"
 
 [[files]]
 file = "mods/biomemakeover-FABRIC-1.20.1-1.10.2.jar"
 hash = "1ff1398180c5a4ad2d78397fe854e22b54a4ee9ed0293d8dd1d47f8f9323af7d"
+
+[[files]]
+file = "mods/blur-3.1.0.jar"
+hash = "b886ddaac7b19c9e2db9e0e5331210dcc5b487743d3f9d8d08ad66e90278d9e7"
 
 [[files]]
 file = "mods/borderless-mining-1.1.8+1.20.1.jar"
@@ -2427,10 +2443,6 @@ hash = "a2ef368b92fd77e1388acd92f1bb58c2b535eba62ce4b1391c2f1803ad3666a3"
 [[files]]
 file = "mods/cullleaves-fabric-3.2.0.jar"
 hash = "b85953d3c2de70f0fbd4cddf57f9c0861a9bd409077ce6e01da817f6e7584177"
-
-[[files]]
-file = "mods/cupboard-fabric-1.20.1-1.9.jar"
-hash = "6fc81622f5bb013fb83a5ef2cd63c7192d0b675e302bff6452a7dd341f05f510"
 
 [[files]]
 file = "mods/dynamic-fps-3.2.0+minecraft-1.20.0.jar"
