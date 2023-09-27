@@ -1,0 +1,13 @@
+name = "Origins Modpack"
+author = "Zainothy"
+version = "6.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "290b489455db15d023b7eaf49eeb2c148c1d666f9a026234f65b0e10904ffaa7"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
