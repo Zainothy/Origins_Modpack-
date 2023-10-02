@@ -16,15 +16,15 @@ I have also included nice looking visual tweaks (e.g Falling Leaves), client twe
 - Download the latest Modpack release from here or the [Modrinth](https://modrinth.com/modpack/simpleorigins/settings)
 ### For ATL: 
 
-- Hit "Import" ![Example Here](https://zainothy.tixte.co/javaw_n53Bm3N84I.png)
+- Hit "Import" ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/9cd60171-e7a1-44c1-835c-2b522b41ecef)
+
 - Then paste in the link into the URL Box, or point it to the latest release file.
   
 ## For Prism:
 
-- Hit Add instance ![Example Here](https://zainothy.tixte.co/prismlauncher_We6z196FDO.png)
-- Go on the import tab and give it the link or give it the file directory ![Example here](https://zainothy.tixte.co/prismlauncher_XWEPWlLseB.png)
+- Hit Add instance ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/e01c0be9-1eaa-4f42-a60f-d51b3b1a0340)
 
-
+- Go on the import tab and give it the link or give it the file directory ![Example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/29c45b3e-b640-41d1-8041-8043809fd756)
   
 # FAQ:
 ### I get a java error when trying to launch the game in Prism:
