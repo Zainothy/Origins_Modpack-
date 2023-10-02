@@ -18,7 +18,8 @@ I have also included nice looking visual tweaks (e.g Falling Leaves), client twe
 
 - Hit "Import" ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/9cd60171-e7a1-44c1-835c-2b522b41ecef)
 
-- Then paste in the link into the URL Box, or point it to the latest release file.
+- Then paste in the link into the URL Box, or point it to the latest release file. ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/e6ed4f11-e5d4-4d5b-a7ed-968f603e3b8d)
+
   
 ## For Prism:
 
