@@ -65,6 +65,14 @@ file = ".fabric/processedMods/com_akuleshov7_ktoml-core-jvm-0.4.1-14684978f0b54d
 hash = "f6839d428bf5665bf3d0c8e9151c68972d23d73bcd170ebea19b6d6400efdb8c"
 
 [[files]]
+file = ".fabric/processedMods/com_electronwill_night-config_core-3.6.4-7e79e13238ec3246.jar"
+hash = "1f8c4257526317e65209b215f7b3971708e4645c81cc10ba53161382738fb859"
+
+[[files]]
+file = ".fabric/processedMods/com_electronwill_night-config_toml-3.6.4-b0b5ff2df71bfbe1.jar"
+hash = "070fa78eba7588288c3ca34392c6ff1155f2e486bbf84f3dfa85f69d4696a14d"
+
+[[files]]
 file = ".fabric/processedMods/com_github_cosmetica-cc_cosmeticjava-1.11.2-3e8ac616a74af1a9.jar"
 hash = "bd33de0cd4cd6ff07a0ad3f4c4ca0a00eccc3c14170a0d5f1642771e7888b1c5"
 
@@ -109,6 +117,14 @@ file = ".fabric/processedMods/com_twelvemonkeys_imageio_imagei.0-SNAPSHOT-9142b9
 hash = "354e7de3780be5c3752968799d07d94b8dfb3f69e1907e8572a522074abf1337"
 
 [[files]]
+file = ".fabric/processedMods/completeconfig-base-2.5.0-ed283209b815c54f.jar"
+hash = "265c34a772582b82e23bf2b45ddf1b96c811a7c19e486515c333524cfb137d17"
+
+[[files]]
+file = ".fabric/processedMods/completeconfig-gui-cloth-2.5.0-f585aae6fdaf55b9.jar"
+hash = "4eebe65c7e3a475ae9912446880fed3ad4699a15ca451fb6904bcf7634dac5a7"
+
+[[files]]
 file = ".fabric/processedMods/conditional-mixin-0.3.2-6305235f6fa525ca.jar"
 hash = "8111308bd94558ec0fe8b0a905d3d4643aa65250b417c41eaa8d2601a3066947"
 
@@ -119,6 +135,10 @@ hash = "0e1ba35412f3266efa16907dddd58fc70e46fd9b5ae0c723620546c641c37d39"
 [[files]]
 file = ".fabric/processedMods/crowdin-translate-1.4+1.19.3-e7c940f69cf2d19e.jar"
 hash = "9a36eae2896e006b1bd279826c65ee11b85ea473d7ee938aefe3c4c18bf8b225"
+
+[[files]]
+file = ".fabric/processedMods/customportalapi-0.0.1-beta64-1.20-3a99918c48ea844d.jar"
+hash = "4a997126366891b841cd6d79f9a1dcbd599975a47be053691cd75fffd6cdc702"
 
 [[files]]
 file = ".fabric/processedMods/dev_isxander_libsdl4j-2.28.2-11-38523d7620dc5baa.jar"
@@ -645,6 +665,10 @@ file = ".fabric/processedMods/org_ini4j_ini4j-0.5.4-a63da22a2272607e.jar"
 hash = "93fc5859342e3191d7a5e9257c6d8da5de4c79655591da4e90d5deadba30d715"
 
 [[files]]
+file = ".fabric/processedMods/org_javassist_javassist-3.29.2-GA-edb4cab1bc004790.jar"
+hash = "28736e814bd4e36a543f3af891d43f6d8aec63d34c4ad301c07adc87328a7131"
+
+[[files]]
 file = ".fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-1.9.10-34d5ac8fd03ead56.jar"
 hash = "895944e5da4923d2306094081ebf7d8c127c48b4384eca2bd20f515eb5cd9786"
 
@@ -695,6 +719,10 @@ hash = "8fac84979768df226e6f26ff357d9cd0cd00a08ed0789357e7bf0be9a883e4ac"
 [[files]]
 file = ".fabric/processedMods/org_quiltmc_quilt-json5-1.0.3-e61068646966a89a.jar"
 hash = "804ca83385bdfeed5c8b3f5fa72bfd696dfc7b48a0099924dc2f9ae42a5dfe9a"
+
+[[files]]
+file = ".fabric/processedMods/org_reflections_reflections-0.10.2-da482094acb0d861.jar"
+hash = "e9f0aa8497ed8fef1e3aeabebdb9f7f42772c1d3f1a48588e0a01d3d9d1fdda3"
 
 [[files]]
 file = ".fabric/processedMods/owo-0.11.0+1.20-38e56ff2c84b1192.jar"
@@ -786,19 +814,19 @@ hash = "0240a83921103233e8d9344673819d6a5606b5a1076d1a5db6344f38be3d00af"
 
 [[files]]
 file = ".mixin.out/class/net/minecraft/class_5689.class"
-hash = "56030813a60e4e642c94c8348c768b89068e806122332729e4de0e90f39f610a"
+hash = "dd7fa410f77030841f5dd88711ba487b42e45f5c5affd92bc710e0ffc2dd56d9"
 
 [[files]]
 file = ".replay_cache/raw%5C2023_10_06_01_10_15%2Emcpr/recording.tmcpr.crc32"
 hash = "a2cf4264f1e99f7e1366594608d82f0ed5c030159434101fd88d842c7df5432b"
 
 [[files]]
-file = ".replay_cache/recording%5C2023_10_06_01_49_11%2Emcpr/recording.tmcpr.crc32"
-hash = "47dd6fd36d68bbf8d583f333e908465cd6a1341a679f03327b24bf1f5a4eba9e"
+file = ".replay_cache/recording%5C2023_10_06_17_23_44%2Emcpr/recording.tmcpr.crc32"
+hash = "ea2d96459a94d8ff5060b62209b1fd86771d328a95d3104dfff11bbbebf9240e"
 
 [[files]]
-file = ".replay_cache/recording%5C2023_10_06_02_00_06%2Emcpr/recording.tmcpr.crc32"
-hash = "9b67d9063f4efcfda7c2363fa19142f5f2dd4919e9030416f2c22471a6ac07ed"
+file = ".replay_cache/recording%5C2023_10_06_17_24_54%2Emcpr/recording.tmcpr.crc32"
+hash = "a834dfb4351eff7d64c03f77e2bc4344c8cc5b3e1c3738a9e38240523148bc63"
 
 [[files]]
 file = "ModTranslations/antighost.timestamp"
@@ -1145,6 +1173,10 @@ file = "XaeroWaypoints/Multiplayer_localhost/dim%0/mw$-412065346_1.txt"
 hash = "5e314e12bdff5e23fff0b4cda610640db3fabb436d817f65935b3a15cfdaae15"
 
 [[files]]
+file = "XaeroWaypoints/New World/config.txt"
+hash = "11580b3637ad701da4ee9daf15ce4b7b42eba5244227d8b3bab811af8c53559f"
+
+[[files]]
 file = "XaeroWaypoints/You Got Sent/config.txt"
 hash = "11580b3637ad701da4ee9daf15ce4b7b42eba5244227d8b3bab811af8c53559f"
 
@@ -1446,15 +1478,15 @@ hash = "f61f532e198b4ab4212f1c4142516f8a9e4b9f9314ab9f442d9f1fcefb4ab24d"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-1_-1.zip"
-hash = "00f1d7707ede9bf220398733bb0eb59c69aa23ea7965e9b4457f2a6dbcf620ab"
+hash = "0f04063d3d8de684de5bf2b5178b89a51995e40abdedba1819c736a36b6a43e5"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-1_-2.zip"
-hash = "b7f890ce7ac2d0161a482430086f4a826a3e1634955ae0ba18cdd858782cbc6d"
+hash = "76b7e62c01492850c5abc920351c6ff6433ec408232e3ebae013ec6e49c82e30"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-1_-3.zip"
-hash = "ca1a3df892dac51a93d6bd3391b4bb143dbe1288612dcf21ecdbb04b874e8580"
+hash = "dbefffb15c49195e9a629c2185936d3c699c16302e294769daa104ed31f38006"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-1_-4.zip"
@@ -1474,15 +1506,15 @@ hash = "f869a28dfede377595efba025d62ba7d125cfdac8568dfae46154c1134b0ab0a"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-2_-1.zip"
-hash = "f64215cebf6bdcaf04a9f97b810588ecfae70369343fa7a128d43c11304bac7c"
+hash = "81b8584bc08366d058b786670bd2eef623aa4e60daf923159d7d7817056f7ffa"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-2_-2.zip"
-hash = "16c33117775974db349cba59de1e2a06fe3d6c9fa790ba337b0485072172e84b"
+hash = "4a9f3044d3c4563d92627e85c91f17dc96775cc2247b2dd3f81d2296ae023869"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-2_-3.zip"
-hash = "239e817ea9c604d649a184d7b647646a34d75120516f0ef4597471883be01848"
+hash = "8704551be157afdc875bc52a3fa5d159b9686616b1d5328068c9789184df0cd8"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/-2_-4.zip"
@@ -1822,15 +1854,15 @@ hash = "36df6341fc75e0692dacc3bebd9209ade89ac2540c1ba5ffbe166d7f36aed6eb"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-1_-1.xwmc"
-hash = "7199a51b7cb537608898143c91ed07e24a0565069fb3e8098a14094461c81a09"
+hash = "842ff9a9e8e18e9a8cbb5abe3cd66f2e608f31769e05448510dacf5d4a2526e5"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-1_-2.xwmc.outdated"
-hash = "15178fa3c292c4818cf3c5268d3be0670aecd5ce24ab81d97a3316be6af2aea6"
+hash = "990fb13482cce67568ad0d75344e1a0c46e9941e3c4812097a45421da2478998"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-1_-3.xwmc"
-hash = "955d74f3982ce6d1b87ccb810b60e8cf5ddfcf3a80021472bd53f34ca71da812"
+hash = "da92fd9e2a6b748947a8fda433b18eec1f95ede44f73386702e06dde3c19c469"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-1_-4.xwmc"
@@ -1850,15 +1882,15 @@ hash = "e4c229fb9057d4933733ac86a6bbb9c38ade3d62f8d8e09f62d238e7fff9bc0f"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-2_-1.xwmc"
-hash = "eddfc8bf51d17f275e23e4b46289d7776dacac1ce1828baa9b931d565477f05f"
+hash = "646b16ec70c1052227f3aeba0f64ffeeb93979031db15e48f9fcde9982ea567c"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-2_-2.xwmc.outdated"
-hash = "3dd8ff05c030ff00bc0edb44aeb03e1c84e997deea044688486ca9886b33edb5"
+hash = "a7e9722b2fa0ce390c4786906f8c1b2f08382cc56020db3a6fec934f7e356c6b"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-2_-3.xwmc"
-hash = "d634f42842cf9f90bdcb9693699f311ec61bc157648849c25e6015a2638356d0"
+hash = "303ccb8c6b166eebe6768a982bc43566599c3537703aa07bc12980180f5af255"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/cache_1/-2_-4.xwmc"
@@ -2282,7 +2314,7 @@ hash = "0af5ac9a3ba27f3b52a4563b98ac6c11583453f188ca77a694f5ee3c524898f6"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/-1_-2.zip"
-hash = "fa7e7e99766130fa3302f3f351206d001767412b1f2f8ceedd48bd488280f2ca"
+hash = "4b1573c0e8d0d5e0c61ff92eef7671edfa49035109ed5cd8be408a3102683a03"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/-1_-3.zip"
@@ -2306,7 +2338,7 @@ hash = "0acd1b1026d4c3e1998357b937b5d4b40225071fc1ee29162fae03e05b210a6c"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/-2_-2.zip"
-hash = "8dfc43b56c1b1929d48c40a91d5847710b03254e22b92305a0a95692cd3d91b2"
+hash = "9ad4591d4ebe1456628c3dc578e3c1d03c7ac1ea420046b4cc4ba6cc3dde96e3"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/-2_-3.zip"
@@ -2338,7 +2370,7 @@ hash = "fd3630b16fb76e17ff1ed4889c576dd09f4da8c0e33e9b5ac884279210a8e19e"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/cache_1/-1_-2.xwmc"
-hash = "1e20e9b25dcd92886baa066211a3a5a0f0386238548f55cd5a7d7d8bcb427343"
+hash = "3e1bbf85401c8564ffe03b78869385a316f577d55f179bf97e17217babbf439c"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/cache_1/-1_-3.xwmc"
@@ -2362,7 +2394,7 @@ hash = "e029a41e7702bab858088f4f62ba2c1f470785b98fd7d6faa3245435c33d6113"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/cache_1/-2_-2.xwmc"
-hash = "02993f4cb9608f05b2832b331956f01520333a65ff388056954d7e20b4ca50fe"
+hash = "1542690441b31c18d495b1dcd3decc1d33ff56695bf3c3de39b8fe6bc397c65c"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/null/mw$-412065346/caves/4/cache_1/-2_-3.xwmc"
@@ -2554,6 +2586,62 @@ hash = "0fef17bfca66a306d78d5d2d694ed492ab08b9f2ce212eeced889fa6c35e8ef9"
 
 [[files]]
 file = "XaeroWorldMap/Multiplayer_localhost/server_config.txt"
+hash = "688ab89acfab336ea8fdd9bae56f3e6c9adea6ff1b4dfdd0fb82ef661c0072b5"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/cache_1/-10_8.xwmc.outdated"
+hash = "944105ff032e76125716e0618c0dc01ac33fb25927af40a0f3d0449a2ee05b8d"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/cache_1/-10_9.xwmc.outdated"
+hash = "c4e62e7314917494d214b706f5753309972d4285957b6fdef3063c7dcec92b6d"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/cache_1/-1_-1.xwmc"
+hash = "2f9e57f45ad62c803c0bd3d8a3b8474f6383e454eb9dadf91f8288c40e51dfa9"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/cache_1/-1_0.xwmc"
+hash = "b62455489c628cc1f356f591da8e311a98cc9bde76e95201ecc74eb455695b2a"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/cache_1/0_-1.xwmc"
+hash = "45f61e00cb47a840dcb561ba2cc6078ec0606856364d1836f33347469a124376"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/cache_1/0_0.xwmc"
+hash = "9f91c0f18577b3986fa4f5ce1362b3816778f7d26401d7d989dcb2b418a34e03"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/caves/4/cache_1/-10_8.xwmc.outdated"
+hash = "bc820d1c80e01ee488b77157c3eab3d357b3476694214acf11bf1806664d2e6a"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/caves/5/cache_1/-10_8.xwmc.outdated"
+hash = "e84588983f8c21a351eb0c222027b09dfa0c1db5776f5447dd6543d6ece826fe"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/caves/5/cache_1/-10_9.xwmc.outdated"
+hash = "9a62a98715f1d81e85886a390e53ea3f084c5310dd5403ce2d2e37a7e5469300"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/caves/6/cache_1/-10_8.xwmc.outdated"
+hash = "d3aaaa30af4af05494ab5ee0bb418db0ebb44513654da1041961596a8ca3e815"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/caves/6/cache_1/-10_9.xwmc.outdated"
+hash = "307028fb58ea45a6406c6b9b08cb583e77e6d434dbb3dfae8b75011a0b796902"
+
+[[files]]
+file = "XaeroWorldMap/New World/null/dimension_config.txt"
+hash = "55cfcbfd3204c84082a2662082c36f3e20bb7f2faa91ecf3b656280009a94aa6"
+
+[[files]]
+file = "XaeroWorldMap/New World/server_config.txt"
 hash = "688ab89acfab336ea8fdd9bae56f3e6c9adea6ff1b4dfdd0fb82ef661c0072b5"
 
 [[files]]
@@ -3650,11 +3738,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "XaeroWorldMap/You Got Sent/null/cache_1/-1_-1.xwmc.outdated"
-hash = "46c87f1a9b364d78dd757bfb013bc02a94e9b3289ff9017aeffbf022e1b819b7"
+hash = "655e7be964ad1d1bb688a8cabd1172859904bd48bcab26b45c5cc982fa6be911"
 
 [[files]]
 file = "XaeroWorldMap/You Got Sent/null/cache_1/-1_0.xwmc.outdated"
-hash = "f72e3d641c568afa88fb8d40d2140461ff262ccbe6218bfad6a0e700ef6f6579"
+hash = "ea3ffb400fd3f741bb4e09c677cd98b033af942f25f6e723d2192828c9d084b3"
 
 [[files]]
 file = "XaeroWorldMap/You Got Sent/null/cache_1/-1_1.xwmc"
@@ -3666,11 +3754,11 @@ hash = "b414990e1d62afec62c5992d7320911ad173f2060505524b06c7dae79858b0aa"
 
 [[files]]
 file = "XaeroWorldMap/You Got Sent/null/cache_1/0_-1.xwmc.outdated"
-hash = "63bbc35b97207b7e6c6263cfbbe1c1f08fdbb2f57c9dc8592e9432cc76ada4ef"
+hash = "9f14766b7d5d28cbc7fa538aa5648fbbf0c27478ccf16853b08e0ed6aa817161"
 
 [[files]]
 file = "XaeroWorldMap/You Got Sent/null/cache_1/0_0.xwmc.outdated"
-hash = "a76a1e23fcd03a308cd04dbcdcca47637fa851267f427414c44c8fc8766577be"
+hash = "f2c7fb66d30a529253b680a74c52f616871b8ac5d14950631cdfeb974d01c7ea"
 
 [[files]]
 file = "XaeroWorldMap/You Got Sent/null/cache_1/0_1.xwmc.outdated"
@@ -3766,7 +3854,7 @@ hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
 
 [[files]]
 file = "config/InventoryHUD/trinkets.json"
-hash = "19f8f3730f1cb5929c814b658a7ca626a39616fb741a2763b1607adf4d9f9a0b"
+hash = "06531afd1482870c2454c1af639086f422670f7017e7a3dd18b7292d717dde11"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -3845,6 +3933,30 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/betterdeserttemples-fabric-1_20.toml"
+hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/armorstands.json"
+hash = "8dc4fb897ebea50d9616147e6f8a9b1a3440915362d7c7e19844687ec3fedef2"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/itemframes.json"
+hash = "eb24c8aa82d712c985bb60cf1bd758567c3263f76f0620e6b0d9c7ada4bbc97c"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_20.toml"
+hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
+
+[[files]]
 file = "config/betterend/blocks.json"
 hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
 
@@ -3879,6 +3991,46 @@ hash = "d7b57778fece867ff3364e456f146d41d854709405ee70c87744ac294b9041d7"
 [[files]]
 file = "config/betterfpsdist.json"
 hash = "371f4a25c65652f254ad563c0be8331f7aa25ffd362dcb2204edbd7bb2dc1670"
+
+[[files]]
+file = "config/betterjungletemples-fabric-1_20.toml"
+hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
+
+[[files]]
+file = "config/bettermineshafts-fabric-1_20.toml"
+hash = "d486f4672659b59f9a855d9ebce345d8a983c504d24b99613ce280db657c40f5"
+
+[[files]]
+file = "config/betteroceanmonuments-fabric-1_20.toml"
+hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
+
+[[files]]
+file = "config/betterstrongholds-fabric-1_20.toml"
+hash = "2dae469f9196a363cb5e9fb614788224a713378f22300a1afd6486f1d43766a2"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "70aadca974d0adfe90f98930e23c15076b3d2e625c88e8c2aa6721d91a8c035f"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/README.txt"
+hash = "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/armorstands.json"
+hash = "0aeb1d23191baa1d3e4c744725483a9084947d9c215088a85b8360f7bf86461a"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/itemframes.json"
+hash = "25aca33be8afccb46774f74656b954c36fcc374e2999e64d3d42d5d846744a03"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/ores.json"
+hash = "12026b0c7af7af4f6edcd0eac11e1f72d440aa3fd26233107b49f6f4a447e22c"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/rareblocks.json"
+hash = "d48669d69850c89b9c60d96cc4b2ab480a76a2aed2d127d8b123a1ad3fed3789"
 
 [[files]]
 file = "config/betterthirdperson.json5"
@@ -3938,7 +4090,7 @@ hash = "cc7ecc5d2851592dcb2f88a7e32ba0fd5a41a76b29a131f1ac752f5a1dd422e5"
 
 [[files]]
 file = "config/cosmetica/cosmetica.properties"
-hash = "41fa720bc0645789a144c480b301be7752a10a162ffe746f648cac5922cf4c11"
+hash = "3fcb19b1ba7c693c6695e3193312dcc14282ea48ac1bddc268e20df1675962bc"
 
 [[files]]
 file = "config/cosmetica/default-settings.properties"
@@ -4014,7 +4166,7 @@ hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "34f0f0e842359eaf1f48d7a84bab3a425a778ef98edd9577f2ced6bbc2e3497c"
+hash = "863b890de2e72cfcac4a122ee296344e1590b2b8e012fe9592b1adef044a911a"
 
 [[files]]
 file = "config/fabricskyboxes-config.json"
@@ -4022,11 +4174,11 @@ hash = "582b93ab2b24e82e6d904f7030d95269d7b0326495d19017b63d58ebea2ac15b"
 
 [[files]]
 file = "config/fabrishot.properties"
-hash = "d7d8e96e80a762af45d30cb11160429ad7bb60bc2e5cedcc07bcbf5f76ca4eed"
+hash = "c440df80eedb033af4b90984ceb042a64ea9fa13da99c88a1abfc8922320f7e4"
 
 [[files]]
 file = "config/fallingleaves.json"
-hash = "6042cdf734a0960998b75a781c1d5e3334739e0e10b8dbe8f4873538b400610f"
+hash = "705c5910f3b4774d4caafba4a05267edd8f6fa0f94e4a8c898d5e6bf91e662c5"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -4034,7 +4186,7 @@ hash = "7edc65e5414f74f29310d43175d6c64e47d139607dabd9ffd16f22172648a686"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "0244c37d5cf05eb80b30372273e222c13dbb9b999dcee61ba343ad259a532449"
+hash = "b69e977aec490c8973a18fd3bc45e89ed536ceee8fd78749d210dbb46315b8bb"
 
 [[files]]
 file = "config/fastquit.toml"
@@ -4047,6 +4199,10 @@ hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 [[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "ac070ed460bf105be08b98392544e52093232aaf2cee8e3db826bb709ed535cd"
+
+[[files]]
+file = "config/friendsandfoes.json"
+hash = "405c5e4aa73914d953eb3870287d229f9105f53a9a98a3a71673ae97265e693d"
 
 [[files]]
 file = "config/fsb-interop.json"
@@ -4062,11 +4218,11 @@ hash = "b19dee2c49662c61a7899ee5f545fb788015c3c00c8e7ec3401c77efcb6a9008"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "d0277007197f199ee82aabc585f13210c1f241fc6762d89532adfcda0f8f1fdc"
+hash = "bef64c2358f1287c4e96b3a19ea34efd03ca46860958daeed1dad08ccfa315de"
 
 [[files]]
 file = "config/inventoryhud.json"
-hash = "8bcfb2d795e2bd2169ea804c1db968a0576613c99858fe91283d54ec5b85aab5"
+hash = "66e7bb8d1af9403707f8bd04d0115d14db2903d8da0dbc4756945518b3b310d9"
 
 [[files]]
 file = "config/invmove.json"
@@ -4074,7 +4230,7 @@ hash = "f07273670fb6fbd2012d7a63e2453826f00e42dd82efb3ea82a4d81894f3b410"
 
 [[files]]
 file = "config/invmove/unrecognized.json"
-hash = "614feac178182edfe8379ea56c596a72dfaf39ed38efec0d0138943c2bd029b8"
+hash = "004936112ea11a196c7a0a7cb9cae6963b3f85d409ead85b56e8ebe1d6fb0d5b"
 
 [[files]]
 file = "config/invmove/vanilla.json"
@@ -4082,7 +4238,7 @@ hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
 
 [[files]]
 file = "config/iris.properties"
-hash = "cb83981baf2b5c01bbfc51ae97ce97efbf3b83a99046350505ec41f192bb7610"
+hash = "695fd90698491f918cd3679cdeeccf15ad7d24c0714323c112ec5975e3367cf2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -4146,7 +4302,7 @@ hash = "d346536c5e08e395084dc30fcdd8d5f5e9e31e60d4838a135fc9d3f5c796905d"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+hash = "a6ca39d1e9448b78368a6575ccf2ee98e4e210191b24fed842e0ddaf06652fa2"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -4189,12 +4345,16 @@ file = "config/puzzle.json"
 hash = "368947809c2806ca9f58f57fb29fca4ee91e1d4973ed94e664346e442472d0c3"
 
 [[files]]
+file = "config/regions_unexplored.conf"
+hash = "24804a8b3c0975897870ae8d55ab3c278cca3d57b810104cd8cc2b9808d9322f"
+
+[[files]]
 file = "config/replaymod.json"
 hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "96a6c65350858d67cee7f714e435fe3aa777e1155d918994da12762a25f07682"
+hash = "9eb1dd676a7dffbf68f7590f51668d4df89d809fdb1bc9f6826d126345d86f39"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -4202,11 +4362,11 @@ hash = "28c62c87090b3a4df9505cbe65f8f7d24982229fbb8ebf264d155c591a7d8228"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "29433296a3b609551267c44d149c860d1a0e6e72530e34e8ff129db8f6c91400"
+hash = "c3466218ebf2469ae47cda4165625d8d38d3da436c1cd4117d0b720a1bc5bebf"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "94676ab2d59ede439f0134db433f6874ab910978201c89dcd060f1123eb4acab"
+hash = "9de50fda591c678eebb333abd4614729d9cc9c7fd14b7f7906d0ff4dfaa58518"
 
 [[files]]
 file = "config/rrls.toml"
@@ -4222,7 +4382,7 @@ hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
 
 [[files]]
 file = "config/showmeyourskin.json"
-hash = "944826db92128c9c9331bc4585a291acc5e579f0fa5989b65cd77c16d976af94"
+hash = "2e6012aa0af2eaa84bbd2d97aeb7d9340872218a9f80cf36e47598dd12718b19"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -4250,19 +4410,23 @@ hash = "e2c606253cac9d6ee83fb075715e23676bf8fd389baf966335b2bb56d67aa390"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "6e88824fbdb0518faf363a123a5e8f23fbe76c622b0c8eb7b7273f94a9371e5b"
+hash = "b28addf8da4b3a88e9aafc4cea6ce34835b127e621eba97c1cc0a1335b1aa2d4"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4052e5035e87cb8c0b41d4d213eccc5868fc9685b958eb7f691fc8efb940c5e9"
+hash = "aeaf8b2c97c6fff9d134cfcab0c85ce8c96a6efce1fd888af242cfab99349d38"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a95f16d7504c50703e4d4a55b5f4bcdcc8656f06ff8818c0c37b169eca3467a8"
+hash = "2be66302b7bc51a91c97f165d9f848c6402eca6f2f136e7f8e9a6ae26cf944af"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "b30022fe747af5b629b8fa148f3ef354e9bc3e72c7e1c46cd292275eb6658801"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
 
 [[files]]
 file = "config/visual_workbench.json"
@@ -4314,7 +4478,7 @@ hash = "8f2ed77448409c8f3e8fa2cd34a9cd9a33d2587632284189baa79313633c099c"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -4365,6 +4529,18 @@ file = "dashloader-cache/client/1CE952529BA50A84FCA77AF39ACE2F3C/B420CF60EDDAF83
 hash = "874e8e29a2fbda68115f5aa3f925728186ee06746d53e7f0a63ee785e3eb3603"
 
 [[files]]
+file = "dashloader-cache/client/50BCA00D83031E0381523014CF1339FF/B420CF60EDDAF839A61931A1956E7B63/fragment-0.bin"
+hash = "ae991d2844ec01e4d1bea8d172871427a8c78b1dffd71fd1654e2627fcdde4da"
+
+[[files]]
+file = "dashloader-cache/client/50BCA00D83031E0381523014CF1339FF/B420CF60EDDAF839A61931A1956E7B63/mapping.bin"
+hash = "b01881758d7eb78bb765e6005d6d34800e60d83807e78d5404d73904b942044c"
+
+[[files]]
+file = "dashloader-cache/client/50BCA00D83031E0381523014CF1339FF/B420CF60EDDAF839A61931A1956E7B63/metadata.bin"
+hash = "d5ba515e11c46a3deef92ce1cda73a61fb391beda26cab40fe24850bd07dec61"
+
+[[files]]
 file = "dashloader-cache/client/83DCB5B080BCDF5C9342969668B5AA6B/B420CF60EDDAF839A61931A1956E7B63/fragment-0.bin"
 hash = "bb87573f9ac5798c6ca8742c07d549325beae344d871dbf8477fc12aca9e5eb3"
 
@@ -4375,6 +4551,18 @@ hash = "826d0c6c92283fe4ae3feaefc09b76792ed40525bd5a7140c419bc82acb50bfa"
 [[files]]
 file = "dashloader-cache/client/83DCB5B080BCDF5C9342969668B5AA6B/B420CF60EDDAF839A61931A1956E7B63/metadata.bin"
 hash = "7ffe8f864e65093cdfa579493627356a37b81c710960c8e6840bf24a8b98ed27"
+
+[[files]]
+file = "dashloader-cache/client/D79E8226F3818848B07ED20AE35C9803/B420CF60EDDAF839A61931A1956E7B63/fragment-0.bin"
+hash = "8142f2047eeed19a634be9784f36ee2c9c45319befd5cdd184c50a3d5aa6e788"
+
+[[files]]
+file = "dashloader-cache/client/D79E8226F3818848B07ED20AE35C9803/B420CF60EDDAF839A61931A1956E7B63/mapping.bin"
+hash = "e834f1a4943c14d235aa0901b35f2ec564d066417bf57f573c462584759e5193"
+
+[[files]]
+file = "dashloader-cache/client/D79E8226F3818848B07ED20AE35C9803/B420CF60EDDAF839A61931A1956E7B63/metadata.bin"
+hash = "d9e44a7c1e6f9a66e54ad222748eca6b64e1e4c1b8739f84d9c7cc12e5d6774b"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
@@ -6965,6 +7153,22 @@ file = "essential/screenshot-cache/bicubic_40x40/2023-10-02_01.00.35.png"
 hash = "c555b7fc100e39105afb1e3e340fae9aad5549ce5ff291e9d2e70a34f87dec69"
 
 [[files]]
+file = "essential/screenshot-cache/bicubic_40x40/2023-10-06_17.15.09.png"
+hash = "47adb4ac763b4c897f2acb03cebf1cab540777c820a244d966505675de2b25fc"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/2023-10-06_17.16.31.png"
+hash = "11af4273d5fd63883ab39ecb711436e0e878e2d6c6993d64f21f6d3c17004abb"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/2023-10-06_17.16.34.png"
+hash = "4b081c71a2b91a70739986cc08b1b10605fca067c47c4b4b9d00ec4623d7b443"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/2023-10-06_17.23.59.png"
+hash = "0f901d8a99956056c6446cf526a30ce4f6371eb025b0e1e630fff79364acd8ce"
+
+[[files]]
 file = "essential/screenshot-cache/bicubic_40x40/2fe5b545-1a74-4e07-a0fe-2f944ebfd900"
 hash = "9274e24aea214c5d9ccf6e317a74214de157f3130bad1e06d88601d768feaffc"
 
@@ -6987,6 +7191,22 @@ hash = "6b9deb4a21783dfb3b53daf68a4a3b86b87b93e377c4bdc1f42dddea97e04665"
 [[files]]
 file = "essential/screenshot-cache/bicubic_40x40/ec2c8093-a816-44b7-e22c-83fd4a6c0900"
 hash = "de20faba7db2fa9783625e40c140c02baa4f20412781da2e0aadaa7ca43d0feb"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/huge_2023-10-06_02.37.53.png"
+hash = "029cffadcc160320f5969e01b4350b30e0230978f3c29dab444896f3168be736"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/huge_2023-10-06_02.38.21.png"
+hash = "51685ccfd6e5acf8930de4ca19b68f5ca812e5cb8c82bd017f7f498db90d7f96"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/huge_2023-10-06_02.39.14.png"
+hash = "e2b407d84436b2d9b6323e29800f7548b83b082bc09c1d47f9fa7c06c2e68ac1"
+
+[[files]]
+file = "essential/screenshot-cache/bicubic_40x40/huge_2023-10-06_02.39.20.png"
+hash = "d05a4493c27b9bd127ce14b4c53e78b80c150e90f6ad669615c54bb271f564d4"
 
 [[files]]
 file = "essential/screenshot-cache/bicubic_571x260/2023-09-25_01.01.40.png"
@@ -7062,11 +7282,23 @@ hash = "dd09f5180cbcde192b4ae60ab11f28af4f1802dfbe557cd952ec8a90d9e2e79a"
 
 [[files]]
 file = "essential/screenshot-checksum-caches.json"
-hash = "a22ed62078d24f544967bf099537639610573502ada360c716d78090bee0817e"
+hash = "a7e8e1112d6eac7867a0fc68d10d2ef43de519e40e652f919e142baf895f79d6"
+
+[[files]]
+file = "essential/screenshot-metadata/04f83add9b0e77bc67b7bff64d334e3a"
+hash = "79d5eeee87ff2f3e21f47965f6b55814b73c8cc2c1f061e24a1dd5ed97b783ef"
 
 [[files]]
 file = "essential/screenshot-metadata/248f4a42f0fb8a5aa2fe72abfb58633c"
 hash = "4dfa002eeec6d0833133ebd4e41e4ff01102f4a29afa0fb3fb63657ebc6c71a4"
+
+[[files]]
+file = "essential/screenshot-metadata/2e3c538a9189fd3d17726847da728a00"
+hash = "ff81ceaa5a4608b758be54911a13a33705c1d0e6442823fcc10e5bb33cae637d"
+
+[[files]]
+file = "essential/screenshot-metadata/33965e6062c01c96dfad353b7eabe8f5"
+hash = "fbf28eb8bcb9d3b0847f4a6774f84bab5e0fbb98a271ae6e4c4b7ef84682a112"
 
 [[files]]
 file = "essential/screenshot-metadata/39b160e5dc316f6ecf87bc940d3a6799"
@@ -7085,6 +7317,10 @@ file = "essential/screenshot-metadata/6be5ffc7aaef0f7427123bc5a49922e6"
 hash = "b71c49e7f8d7d057af4665c0b00db7a32300d1502a825c9bcb007e267783040b"
 
 [[files]]
+file = "essential/screenshot-metadata/9e0b1d37c8a9f24d6100009daf2b5108"
+hash = "1deb58994266b958e3e5f3114ea75fd5484ec578f493a51bef6b8828e988ce2b"
+
+[[files]]
 file = "essential/screenshot-metadata/be738bf5f39cdb757d3c03db1d84671a"
 hash = "4763a103f5fd95f0ebadc7b5015b51b8f2d878abb5914ad1cd57a7e35a5de81c"
 
@@ -7098,7 +7334,7 @@ hash = "1aa15ec41ab9ba4db248367d106cc191450011ee020bda9da10816adc13acf79"
 
 [[files]]
 file = "instance.json"
-hash = "205198560b195bcd5be59000fbdb070d064853b469cda2b752cb7cd6299466b3"
+hash = "f1cbf75812673f4d1bc429f0bbdcd9ccc3eba9acd706feca76632f725b6a2175"
 
 [[files]]
 file = "irisUpdateInfo.json"
@@ -7218,31 +7454,35 @@ hash = "060f11318bf36c6c737c1b4823ba499178423d6002d5e77cb70702675ca8ba79"
 
 [[files]]
 file = "logs/2023-10-06-1.log.gz"
-hash = "dafbe1d141e657362ce5f5b3692d651d637d543d9aeef0b428609690c055a88b"
-
-[[files]]
-file = "logs/2023-10-06-2.log.gz"
-hash = "c186c1c58f060698d488b4f445e32c9decdda46a5f76d42f152729fcf51844f7"
-
-[[files]]
-file = "logs/2023-10-06-3.log.gz"
 hash = "242d7bcdc719560a64a1bb53cc1973fa2adfb7c2b86f9a6a66df25183d68411e"
 
 [[files]]
-file = "logs/2023-10-06-4.log.gz"
+file = "logs/2023-10-06-2.log.gz"
 hash = "120d90525666cf6da8306a3a1c44d65f6f2d638c86a93d663dd63eb6af2c906b"
 
 [[files]]
-file = "logs/2023-10-06-5.log.gz"
+file = "logs/2023-10-06-3.log.gz"
 hash = "6208526621da01b3a1074da79ff3922797daa002b4101e0d80d3ae2f23720261"
 
 [[files]]
-file = "logs/2023-10-06-6.log.gz"
+file = "logs/2023-10-06-4.log.gz"
 hash = "db8494fe19a1674903153e632feb733d711088488bccf8faf444c63495fede45"
 
 [[files]]
+file = "logs/2023-10-06-5.log.gz"
+hash = "e6f53383da7fc353ebbdda4ee8783c03cb2ad5adb6451c00136e047d56387152"
+
+[[files]]
+file = "logs/2023-10-06-6.log.gz"
+hash = "eca2a8ae6ebcb0bc08b39bc1a1067dd951130c9de74784d18b6f003fab411214"
+
+[[files]]
+file = "logs/2023-10-06-7.log.gz"
+hash = "e93dba198563bc408c9e86dbe45813038368701d9346a2225a7e4737378416db"
+
+[[files]]
 file = "logs/latest.log"
-hash = "8faff45ad8479614fd4f78acf7420cafa1036ba23f7233235764110a049e9627"
+hash = "74d5e0eae3bbf599a670ef3a0e36fd4c4255f5ca2b442f55e0ed90ca69b511b9"
 
 [[files]]
 file = "logs/rei-issues.log"
@@ -7250,7 +7490,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "logs/rei.log"
-hash = "73345ec37041199dfa18c6e197138bf292529c6cb140f4b0bda268a566546791"
+hash = "0ea4a584c41bdb5290cbb7e9ce0dd26b2be23b1be54782b65316be07bc82d55c"
 
 [[files]]
 file = "mods/3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
@@ -7385,6 +7625,10 @@ file = "mods/PuzzlesLib-v8.0.24-1.20.1-Fabric.jar"
 hash = "902192bdde0245e008d3bdf11da685e910aec23ed9bde11de2f2672a4644a805"
 
 [[files]]
+file = "mods/RegionsUnexploredFabric-0.5.31.20.1.jar"
+hash = "8d2ec01c497db2950cb82b9a80cbf18411fff1ad1608759f04756c5bf4d79a37"
+
+[[files]]
 file = "mods/RoughlyEnoughItems-12.0.665.jar"
 hash = "7e4a3567e2a6da1c4e38f5f0984e2714c266b7b366965e2b4cb0740281fe81be"
 
@@ -7405,12 +7649,52 @@ file = "mods/ShowMeWhatYouGot-1.20-1.1.1.jar"
 hash = "e2149f73148e4fff866800225db121088178252c468894f65cc5c628e2e68ac8"
 
 [[files]]
+file = "mods/TerraBlender-fabric-1.20.1-3.0.0.169.jar"
+hash = "3cb2706ff77e7d6bce1d4478f64deb196b4106ce01ef4cbe85772cb8f67dd3b8"
+
+[[files]]
 file = "mods/XaerosWorldMap_1.34.1_Fabric_1.20.jar"
 hash = "bea7d315ce67220620f31e02e5c136db4a10ddabe77a156772b52588ccdcd83b"
 
 [[files]]
 file = "mods/Xaeros_Minimap_23.8.2_Fabric_1.20.jar"
 hash = "2a065cb8b83c492d91ff135c4d9ea6a9167b25332ada4bb815021a4bd244d8c8"
+
+[[files]]
+file = "mods/YungsApi-1.20-Fabric-4.0.2.jar"
+hash = "9e275f53712c31faa8e4deb9be23fb236bb12e912dc922821cd597e0f67bb38b"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+hash = "790e31c2a19194b81ca0dc134694a5b9f935c5c19c50aadcfb4f90a613c19bff"
+
+[[files]]
+file = "mods/YungsBetterDungeons-1.20-Fabric-4.0.3.jar"
+hash = "c4166621e809d7468a9b21f11630e03279864a949b9c88ee4546a91c4137cbb5"
+
+[[files]]
+file = "mods/YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
+hash = "c51b2ea652a592c2d88eab981d57e8a1f638e8bf637ffd636d686423fd7a1465"
+
+[[files]]
+file = "mods/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+hash = "0a4657689217339a1f6079a2d9dda03f6d01beacac59c14e093ded3357db2b86"
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.3.jar"
+hash = "d33e91a280eab95296bfe0b1ac292b84291766b0d15f9291171d0669c7a5edcb"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+hash = "122b74d59629bf755663263a4ce43e58a5d13b74e67bea332d44a9bedb51b74a"
+
+[[files]]
+file = "mods/YungsBridges-1.20-Fabric-4.0.3.jar"
+hash = "9a4548727fd22fd06efa5a70b4bda0231249be107aa5b91acc615981d558ebb0"
+
+[[files]]
+file = "mods/YungsExtras-1.20-Fabric-4.0.3.jar"
+hash = "1765d0885e8ebe530ae81f2b2ae3d6d93c842bb04e03bdbde00f2b45c918c97a"
 
 [[files]]
 file = "mods/Zoomify-2.11.2.jar"
@@ -7517,6 +7801,10 @@ file = "mods/dashloader-5.0.0-beta.2+1.20.0.jar"
 hash = "ab8aec7bc8d9139eb6c8ca3fa89f83e25833c2cc62485c91f5cb322d57d32e13"
 
 [[files]]
+file = "mods/deeperdarker-fabric-1.20-1.2.0.jar"
+hash = "797f1be2cb0b66cc20cf20ad7b736ec11436a3e5ede8a6ac1ccb8d604606d25f"
+
+[[files]]
 file = "mods/draggable_lists-mc1.20-1.0.1-build.7.jar"
 hash = "4d7e7631473206d00cafdaa9b177fd5b6081195ec3fbcaaee7ede718d5ca29a9"
 
@@ -7593,12 +7881,20 @@ file = "mods/ferritecore-6.0.0-fabric.jar"
 hash = "efbf1d4df2a89621bb8d7090e04966795047db16513fef673a529a07dff66afe"
 
 [[files]]
+file = "mods/friendsandfoes-fabric-mc1.20.1-1.9.6.jar"
+hash = "caa39dcae300cea4c1013fc793afbd7f751a79cd33ad9b4beae5cf0bb2f02998"
+
+[[files]]
 file = "mods/fsb-interop-1.3.4+mc1.20-build.47.jar"
 hash = "94a604a57f0fd80accf2734f059b16334bca2536991833282cd16b89fc70add5"
 
 [[files]]
 file = "mods/holdthatchunk-2.0.1+1.19.jar"
 hash = "44a388fd827e7db0768e0be3b841cfb6b1dba6dbf94c93095f9bf4353b6bcde8"
+
+[[files]]
+file = "mods/imst-2.1.0.jar"
+hash = "ac45067364f2edb551e43b2d138681342f5f96c0338f0dedf4eb2c74ac487844"
 
 [[files]]
 file = "mods/indium-1.0.27+mc1.20.1.jar"
@@ -7766,7 +8062,7 @@ hash = "bd0f82102a2e98cc3e5b338fd53f7941256b13e9ca8005b83d56bf3bb94f5234"
 
 [[files]]
 file = "options.txt"
-hash = "aee52f9e0605b9473c70caa18865493e7d2b1b828716c596dd714f9b3bcdaf3f"
+hash = "2ab45fd9c473629c8ae7afb0fe9a890a1a74d599152ec6a1535e0b0dfcbe0a7d"
 
 [[files]]
 file = "realms_persistence.json"
@@ -8029,6 +8325,30 @@ file = "replay_recordings/raw/2023_10_06_02_00_06.mcpr"
 hash = "d5dd710afa5101dd0fe41dd0ec7708b36ebb66e94b44d1c110d4b1f229ec2a99"
 
 [[files]]
+file = "replay_recordings/raw/2023_10_06_02_07_35.mcpr"
+hash = "eb5937c3b98343ee80ab60c03124ea8566d523d9c59c4e313e32e57ee6acf4b2"
+
+[[files]]
+file = "replay_recordings/raw/2023_10_06_02_33_01.mcpr"
+hash = "c2c5417aa4f983f0f0f972130178f0eacddf7d40c4c90c5e78e1bb2a18eb0ae2"
+
+[[files]]
+file = "replay_recordings/raw/2023_10_06_02_37_44.mcpr"
+hash = "08568535733ef53c66cf0bca2e3f96a11fe8ae7f5be1de53e585c60dab24697d"
+
+[[files]]
+file = "replay_recordings/raw/2023_10_06_17_13_31.mcpr"
+hash = "7e63a8562ad9af79d8fe2b444add0e46fff0fb9b7cde027efa8b34bf1a26c2dd"
+
+[[files]]
+file = "replay_recordings/raw/2023_10_06_17_23_44.mcpr"
+hash = "930d7eaf714bcb2112d86206705a7f21acf956da4774a43017fb9f8e61176578"
+
+[[files]]
+file = "replay_recordings/raw/2023_10_06_17_24_54.mcpr"
+hash = "ae9c3c099fd9eacaffe56ad99b3fa8a51c1fb3232db234df28b31b324075fd08"
+
+[[files]]
 file = "resourcepacks/3.3.0v_VisualEnchantments.zip"
 hash = "2d23172a2966baba0f71bb2867dde272984066ee5b3530c76fe2e6ce43b26425"
 
@@ -8075,6 +8395,198 @@ hash = "441dff2b6a130c0028daf44972883f08dfbc55935d4b9cf9123db6687969df5f"
 [[files]]
 file = "resourcepacks/§9AVPBR+Retextured+R2.zip"
 hash = "d4b4e517919d2b61ebcf2e12ea7dbeef6dcfbadb9d71650f4e1c77c70556be07"
+
+[[files]]
+file = "saves/New World/DIM-1/data/raids.dat"
+hash = "40ab9f8361cc0a42df4ac47fd3ce4eca05e18519e26a58e0676e8c56676c6ec5"
+
+[[files]]
+file = "saves/New World/DIM1/data/raids_end.dat"
+hash = "40ab9f8361cc0a42df4ac47fd3ce4eca05e18519e26a58e0676e8c56676c6ec5"
+
+[[files]]
+file = "saves/New World/advancements/451e3a0e-a7f9-429e-b299-aa995dd7d702.json"
+hash = "9be88fc36d9bb57392b86cab5db6e6b5a088900c1e82c1fa0e278a9eaa96dc71"
+
+[[files]]
+file = "saves/New World/data/bclib.nbt"
+hash = "81b1d0c74f9244d9bd51e3aa843f280414d2c9b012f2293e420c55b7e0c7f71b"
+
+[[files]]
+file = "saves/New World/data/bclib_old.nbt"
+hash = "6efb77448235afbb468e69b7c5f10a71201004126156f20e5f208fcb729301c1"
+
+[[files]]
+file = "saves/New World/data/betterend.nbt"
+hash = "ca0e3bbae4fafefaaae0a1f6b2175c267f2a02aa99da041588cc0aa543a27c70"
+
+[[files]]
+file = "saves/New World/data/customportalapi.dat"
+hash = "8ce56a303d0bf6a2d97ea9d4ed01f0c3802901539e3157baf10ae57b04d07bb0"
+
+[[files]]
+file = "saves/New World/data/fabricRegistry.dat"
+hash = "b54440424ceb1c8a931195250edc0b23ac20c7e868f03844f5ca4af61c4e6030"
+
+[[files]]
+file = "saves/New World/data/raids.dat"
+hash = "40ab9f8361cc0a42df4ac47fd3ce4eca05e18519e26a58e0676e8c56676c6ec5"
+
+[[files]]
+file = "saves/New World/data/random_sequences.dat"
+hash = "4c40f0ba3a41939fa7b98cb74fccb9e9a59a09ef8a8f5341590067e889cbdffc"
+
+[[files]]
+file = "saves/New World/data/worlds_together.nbt"
+hash = "1e3688aae87d00c38239197b58140d2a1cbdd45202254ea82e62fc9137d18285"
+
+[[files]]
+file = "saves/New World/dimensions/deeperdarker/otherside/data/raids.dat"
+hash = "40ab9f8361cc0a42df4ac47fd3ce4eca05e18519e26a58e0676e8c56676c6ec5"
+
+[[files]]
+file = "saves/New World/entities/r.-1.-1.mca"
+hash = "cb8a679fa465ff57b4faf52a56faa4c8e098a1ad05d226976d8fa5696f3def7b"
+
+[[files]]
+file = "saves/New World/entities/r.-1.0.mca"
+hash = "03a7a6adb8aadd4097a7fda9f3fdec09be89c9056e9ed0fbc003495c8ded183a"
+
+[[files]]
+file = "saves/New World/entities/r.-10.8.mca"
+hash = "16b17e4c8af22d04efd1c513af2a133bdaaeb40a847c6e0112b7e66754a1c959"
+
+[[files]]
+file = "saves/New World/entities/r.-10.9.mca"
+hash = "af2147ad327159ee76a87e39c20d153b385e7dfda8b8d6d4c666945f18d2efe3"
+
+[[files]]
+file = "saves/New World/entities/r.0.-1.mca"
+hash = "3d72f312143e6742ca012b7cb13d2d7ae101c5c821ca6964a380af4d86247c12"
+
+[[files]]
+file = "saves/New World/entities/r.0.0.mca"
+hash = "c5a1bac28e3387cb0517dc8619ad30981dc262a9cb39ba66074473d5a9ef9133"
+
+[[files]]
+file = "saves/New World/icon.png"
+hash = "72f7a1f4df1c5ee304f06ff9587dd621b1e4702748f5e98276b80746b1568aa7"
+
+[[files]]
+file = "saves/New World/level.dat"
+hash = "8c712f272eaea48f9fefaedf68c902109d72c9d4f7859508c2e6dc68967171e9"
+
+[[files]]
+file = "saves/New World/level.dat_old"
+hash = "80fe6f5c04692386dce2e87c2e19a6093cd124c7c8059aa7787c5375cd5bee79"
+
+[[files]]
+file = "saves/New World/playerdata/451e3a0e-a7f9-429e-b299-aa995dd7d702.dat"
+hash = "665b05b1b9a4b596bcd7d2d47f199bbb74adf4838fbb002d2adf3b0d89202b06"
+
+[[files]]
+file = "saves/New World/playerdata/451e3a0e-a7f9-429e-b299-aa995dd7d702.dat_old"
+hash = "03d48f8801e3c8e08e8ecc7fd77a16ac724bc80122ba74bc6eacd896ddf91913"
+
+[[files]]
+file = "saves/New World/poi/r.-1.-1.mca"
+hash = "4eb22bfc553a949b79d18ea8255037534619444949f2ab06d9e21dd6281b080f"
+
+[[files]]
+file = "saves/New World/poi/r.-1.0.mca"
+hash = "21628200268d48362f9fb685662ac5a12ee50c9da6c7a70fe8fbad44784d89b3"
+
+[[files]]
+file = "saves/New World/poi/r.-10.8.mca"
+hash = "a9bfaf1c5d09ade86a09acacef05433f55b8b0315c70470401b9b521804d55f3"
+
+[[files]]
+file = "saves/New World/poi/r.-10.9.mca"
+hash = "16948c23dcf110a2aae6ff06bb0c45e0926a4172c46652f7b08257df231f0fb4"
+
+[[files]]
+file = "saves/New World/poi/r.0.-1.mca"
+hash = "ebc1219e97cff6f31f2b4b4dab03a72a640bde41ecedcb50376913a93286e33b"
+
+[[files]]
+file = "saves/New World/poi/r.0.0.mca"
+hash = "2571ddb10a9d9eff5bae6382d61a1bc641b45a2429f512fd7188570f6c67ea5d"
+
+[[files]]
+file = "saves/New World/region/r.-1.-1.mca"
+hash = "dff245865a1498f0c087c0abf56fb9cdee782e784909d26e2eea460ffe609094"
+
+[[files]]
+file = "saves/New World/region/r.-1.0.mca"
+hash = "4dd3fe60b9c095f80b46968a4914ef40ba839f9f0f29143da027a7a84555a13a"
+
+[[files]]
+file = "saves/New World/region/r.-10.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-10.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-10.8.mca"
+hash = "999122dada38e87957cd2c030e0c3747768e5dee4b222e1db4e441bc667831a4"
+
+[[files]]
+file = "saves/New World/region/r.-10.9.mca"
+hash = "bc8240b6e51d08ec4d64ba824c75018cfe1ef06f897ebfdc500dd64b7516c8c1"
+
+[[files]]
+file = "saves/New World/region/r.-11.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-11.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-11.8.mca"
+hash = "179f920efaffc13cacb70f8a6c9b6a04022ffd01ba7c7dbb03b9881415d2471f"
+
+[[files]]
+file = "saves/New World/region/r.-11.9.mca"
+hash = "8a2225a510711a133858eb9dc8f1d37563f3e5d12ce560e13d57895846ab33b7"
+
+[[files]]
+file = "saves/New World/region/r.-9.10.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-9.7.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/New World/region/r.-9.8.mca"
+hash = "c6fc09a12fcb1dcc7061151c53bdaeb89b0098eeba94ee4091a2f86596388290"
+
+[[files]]
+file = "saves/New World/region/r.-9.9.mca"
+hash = "a8a1f63030d55651a57d24840bb1cd9f7f80b8084db0446031280e7cb23a062f"
+
+[[files]]
+file = "saves/New World/region/r.0.-1.mca"
+hash = "a0ede610904bfcb40eff25f0ead0c98146743883a3523611cade181ac9376230"
+
+[[files]]
+file = "saves/New World/region/r.0.0.mca"
+hash = "5e5e92f9ef6ac7d45e37d425d911db4013a7a7d5342b9ff2fc2a2eee48eb6651"
+
+[[files]]
+file = "saves/New World/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/New World/stats/451e3a0e-a7f9-429e-b299-aa995dd7d702.json"
+hash = "6576d7547eab41957a968ffad08c5d49b35425b026c0214993be621d49a11214"
+
+[[files]]
+file = "saves/New World/xaeromap.txt"
+hash = "812ed25942284fa7e2e59d2ca8392260ee45091355a5912749655506e674539f"
 
 [[files]]
 file = "saves/Rahh/DIM-1/data/chunks.dat"
@@ -13766,15 +14278,15 @@ hash = "bb44cdc0d84a3705205f0cb46f87ae014a929c332e181cc1718b5a8e6d0037c7"
 
 [[files]]
 file = "saves/You Got Sent/DIM-1/data/raids.dat"
-hash = "e98365cf06559927f7b3c7a05e7644b47c29bde971ac18a80ed805d3c03d3a7b"
+hash = "ff9a3e8290d0853876fa730aab6f175a62e2ca9ca2acb2af39cebd8aeec7e759"
 
 [[files]]
 file = "saves/You Got Sent/DIM1/data/raids_end.dat"
-hash = "e98365cf06559927f7b3c7a05e7644b47c29bde971ac18a80ed805d3c03d3a7b"
+hash = "ff9a3e8290d0853876fa730aab6f175a62e2ca9ca2acb2af39cebd8aeec7e759"
 
 [[files]]
 file = "saves/You Got Sent/advancements/451e3a0e-a7f9-429e-b299-aa995dd7d702.json"
-hash = "e327deb0762c6ecef52c9d2f319cf95441368a265874d82bf3d554d94b5909f9"
+hash = "369befff47a62c6586695d208ab287dec0bae767a42556932446b0a427648b90"
 
 [[files]]
 file = "saves/You Got Sent/data/bclib.nbt"
@@ -13790,7 +14302,7 @@ hash = "ca0e3bbae4fafefaaae0a1f6b2175c267f2a02aa99da041588cc0aa543a27c70"
 
 [[files]]
 file = "saves/You Got Sent/data/fabricRegistry.dat"
-hash = "6df39af63c6957cd2aa6cf746a5794e52da6d1f7399f412dc95661296a6a49b3"
+hash = "2c69fe86e5e6684b01ceef156c45283b8e371a29f16c2cce758cf68b31a54249"
 
 [[files]]
 file = "saves/You Got Sent/data/fabricRegistry.dat.1"
@@ -13802,11 +14314,11 @@ hash = "6df39af63c6957cd2aa6cf746a5794e52da6d1f7399f412dc95661296a6a49b3"
 
 [[files]]
 file = "saves/You Got Sent/data/raids.dat"
-hash = "e98365cf06559927f7b3c7a05e7644b47c29bde971ac18a80ed805d3c03d3a7b"
+hash = "ff9a3e8290d0853876fa730aab6f175a62e2ca9ca2acb2af39cebd8aeec7e759"
 
 [[files]]
 file = "saves/You Got Sent/data/random_sequences.dat"
-hash = "0e60ef005c3a5e4b637932996720e8ba48c678804fa4cf7d470f8c858f6452bc"
+hash = "0cbb9b1ceff390e0dd15d65d86df6eb7ebb0769b6d427063eec89b29ba6eb82d"
 
 [[files]]
 file = "saves/You Got Sent/data/worlds_together.nbt"
@@ -13814,11 +14326,11 @@ hash = "65e1fda0a17be59a2dfbd5b13f5c31f19f995535e2c05364bad6d9b742931a3f"
 
 [[files]]
 file = "saves/You Got Sent/entities/r.-1.-1.mca"
-hash = "a9e0ea50086da8e9d0d5499e1399505f5058fa73f0e56e1b92b44e488ff082e7"
+hash = "1199106543b1a1d3c29b9108c55ef678ea6dafba8bb1b5db1f4867e7c18dbdfb"
 
 [[files]]
 file = "saves/You Got Sent/entities/r.-1.0.mca"
-hash = "9593d908273845679059216f9a68f930a0781e224238ba027398219ffa2c9bad"
+hash = "000c2cb2ac87d514733097673051730ed4d5441c87614c65d98c17f960acf385"
 
 [[files]]
 file = "saves/You Got Sent/entities/r.-1.1.mca"
@@ -13830,11 +14342,11 @@ hash = "f2ac7a22fbb9e351d6b2b4379686f8941ba82ed56838965d9610d3549e710db3"
 
 [[files]]
 file = "saves/You Got Sent/entities/r.0.-1.mca"
-hash = "25d8414c80a80580e3333432ac8ec3273f6a97fa9ce222202fb7d57b194a6058"
+hash = "42a6129dc081bae32d9140817615f9bfe481ad037044522a9b5f4f4cfe031583"
 
 [[files]]
 file = "saves/You Got Sent/entities/r.0.0.mca"
-hash = "a021af587501bd9ba16a0c802fb9fa608a9dabfda5a325a821844d9213d6eaef"
+hash = "f04450e94178af140c567a7a8a9ac4a582c42bc0a73632c377f8baea3ce2cea2"
 
 [[files]]
 file = "saves/You Got Sent/entities/r.0.1.mca"
@@ -13862,19 +14374,19 @@ hash = "0cf24a2d98ad31338dc70bddeb4a79d4c0396eef412a99192d50a4adb1ad95c6"
 
 [[files]]
 file = "saves/You Got Sent/level.dat"
-hash = "264c87ee683aeded8e4e0b57988ad8976482a11eef9434729c22f4a599d27b8b"
+hash = "4d5c9ca8258de0c3fcfb78c17b808d8bc1579db36e7f20ad85b97a66f70ad224"
 
 [[files]]
 file = "saves/You Got Sent/level.dat_old"
-hash = "d3db1dac8cf3b094cdc3084fbf5e96ab6b5fbae1c1d553d0b1308531dd43202c"
+hash = "5f466562c0d9cfd92c9e5ed03ee24e7fa5b4090d2f8d576fc9820a360a41d05e"
 
 [[files]]
 file = "saves/You Got Sent/playerdata/451e3a0e-a7f9-429e-b299-aa995dd7d702.dat"
-hash = "64c3506c2d80b9e85df4faa15ba640ce155d40705aa16bda0c0c5e176e8135c4"
+hash = "5cf2a83e7703208eea58eb0c661df0a5579e75e435ec699412ec417542fbaf2d"
 
 [[files]]
 file = "saves/You Got Sent/playerdata/451e3a0e-a7f9-429e-b299-aa995dd7d702.dat_old"
-hash = "a8825cc749cc1b98fe8199f582acbf479792dc6063e11968210b4bf7ce973dbd"
+hash = "8a8e0c6f1971aad53bff6d74df8bfabdc371a5a1df7d75af87015ed18d685b19"
 
 [[files]]
 file = "saves/You Got Sent/poi/r.-1.-1.mca"
@@ -13938,7 +14450,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/You Got Sent/region/r.-1.-1.mca"
-hash = "4deb669d8758b82ce49e269e3e83c3bd5d4e816d07a886198ab85566dd839578"
+hash = "90802afab9aaea4f93d4291e978fb7fab032b0a8d31424f393c4546990a60e2a"
 
 [[files]]
 file = "saves/You Got Sent/region/r.-1.-2.mca"
@@ -13946,7 +14458,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/You Got Sent/region/r.-1.0.mca"
-hash = "cb2946335e0081123c186905d8689e284fa93d9b3ff2b0ce28ed13c02b6ae079"
+hash = "bf1db2aa3a97680fd8bbb1c55b6708513aa1672b92a7c8c9efe252415e462bc0"
 
 [[files]]
 file = "saves/You Got Sent/region/r.-1.1.mca"
@@ -13978,7 +14490,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/You Got Sent/region/r.0.-1.mca"
-hash = "4836f65e839cddf0c714778c9b6c10db1e15b83b3511f5ea2e0971c0502c99ea"
+hash = "a83bf69d92ed7306884e1fa73f5fc7c47871d8113e3f81eaecf122019dcadc3c"
 
 [[files]]
 file = "saves/You Got Sent/region/r.0.-2.mca"
@@ -13986,7 +14498,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "saves/You Got Sent/region/r.0.0.mca"
-hash = "c9e6d26ef4469917dcd4caadeb8b6675c5f9779d1ff9a8f2dd706c5e088fd18e"
+hash = "be506a8f681b45506e8f08fc240364b57c3c4a16824dbf4fd1cf75ddf1eb29f3"
 
 [[files]]
 file = "saves/You Got Sent/region/r.0.1.mca"
@@ -14038,7 +14550,7 @@ hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
 [[files]]
 file = "saves/You Got Sent/stats/451e3a0e-a7f9-429e-b299-aa995dd7d702.json"
-hash = "27fdadee3559caf179f9a864eca5b84d92d4e4dde4fd3af32ed3a2e7f1b1c403"
+hash = "8183621595f86701ce60e0569c94062a32ce3ce3939f24a07c7d297f328867f5"
 
 [[files]]
 file = "saves/You Got Sent/xaeromap.txt"
@@ -14091,6 +14603,38 @@ hash = "cfdad2e9230d9a65e70a016e56f04b61ea4438a5e7d78c56d12d1e3b9a85c908"
 [[files]]
 file = "screenshots/2023-10-02_01.00.35.png"
 hash = "7bf41fa96e81b07975e37d6137b05273404feeaadb757ba3c2615e8ae7957a75"
+
+[[files]]
+file = "screenshots/2023-10-06_17.15.09.png"
+hash = "1300cf2a52b9f52cc0b4e75d72a1d33efeb22ef379e5a785aca52ca5fe7581d0"
+
+[[files]]
+file = "screenshots/2023-10-06_17.16.31.png"
+hash = "c5db3a73bc10a0ba8f1b5baaf235a8228d472e6d47a9296745c3729cf170e4d6"
+
+[[files]]
+file = "screenshots/2023-10-06_17.16.34.png"
+hash = "34cb3879ed1f60552e100d64ad216f2c0454a67aec57c7a3fda93a452333b334"
+
+[[files]]
+file = "screenshots/2023-10-06_17.23.59.png"
+hash = "9e01056af16b8053cdd40ab32ff31309f3102128d79a3f160f5d4a1216c91d02"
+
+[[files]]
+file = "screenshots/huge_2023-10-06_02.37.53.png"
+hash = "cd4811b83ddb115bf28c94ca52cc2fcba21f92052457ca1b078d521356d441fe"
+
+[[files]]
+file = "screenshots/huge_2023-10-06_02.38.21.png"
+hash = "34fe53dbc8d40d2fcb4500b5e2ca06f390d99b592fd0baf84c168d42a4972a39"
+
+[[files]]
+file = "screenshots/huge_2023-10-06_02.39.14.png"
+hash = "f2648c079d46dc8bdc1aab28fd484b072935fb4a85cd94a427bb8e27e731298a"
+
+[[files]]
+file = "screenshots/huge_2023-10-06_02.39.20.png"
+hash = "9c21715a8a5652c016320b587ff058466ace20fcdf00c1c5f659359641ef3d2c"
 
 [[files]]
 file = "servers.dat"
@@ -16798,7 +17342,7 @@ hash = "116d1184fb3a9e99c89e67a42ed9b8656d99826b7118218b348cb61ac9980e44"
 
 [[files]]
 file = "shaderpacks/photon-main.zip.txt"
-hash = "24ee77e409d1f50dbc95d2fb067d25ad181c39e5dcc690ae294298f96ef42f57"
+hash = "1e28d195458d5ecfb202af00166b853303b74131aaf5bd1f4433f327305418b4"
 
 [[files]]
 file = "shaderpacks/rethinking-voxels_beta18d.zip"
@@ -16822,4 +17366,4 @@ hash = "5067ef918434923ec9838671959008e14d32f61df917064f18fb3c5c4f1d4b5d"
 
 [[files]]
 file = "usercache.json"
-hash = "da3c30fea423e8f291d6c1a99b3e8686b754a04096dff5b98873b20e1053d86f"
+hash = "9133d4399a1b341d48a25f67b7d2fb0cf0dd91baef3480f7d244ffe8af5fd164"
