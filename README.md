@@ -33,6 +33,19 @@ I have also included nice looking visual tweaks (e.g Falling Leaves), client twe
 
 - Then Go on the Modrinth tab and Search "SimpleOrigins", click on it and hit ok ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/99c805f0-e296-423e-b494-b22b37e60624)
 
+
+## Updating an Already Installed Instance: 
+
+### ATL: 
+
+ATLauncher should automatically prompt you for an update before you launch the instance 
+
+### Prism: 
+
+- Go to your Instance and hit Control+ I on it ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/aa5b9cf4-de1b-47c5-8a84-274f732f5fa8)
+- This Will Open  Up a new Window, Go to the modrinth tab and hit "Update Pack" ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/131fecb0-9a1b-4277-b4ef-52cee6c9c40c)
+
+
   
 # FAQ:
 ### I get a java error when trying to launch the game in Prism:
