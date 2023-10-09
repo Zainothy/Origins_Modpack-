@@ -1,3 +1,0 @@
-#Mon Sep 25 00:49:20 BST 2023
-MOTION_BLUR=false
-PARALLAX=true
