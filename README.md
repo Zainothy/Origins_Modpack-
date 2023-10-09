@@ -16,16 +16,36 @@ I have also included nice looking visual tweaks (e.g Falling Leaves), client twe
 - Download the latest Modpack release from here or the [Modrinth](https://modrinth.com/modpack/simpleorigins/settings)
 ### For ATL: 
 
-- Hit "Import" ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/9cd60171-e7a1-44c1-835c-2b522b41ecef)
+- Hit "Import" on the instances tab ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/9cd60171-e7a1-44c1-835c-2b522b41ecef)
 
 - Then paste in the link into the URL Box, or point it to the latest release file. ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/e6ed4f11-e5d4-4d5b-a7ed-968f603e3b8d)
+
+  ### OR: 
+
+- Go on the Packs Tab, then the modrinth tab ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/91780573-29cf-4072-a75a-3d604d982a1b)
+- Search "SimpleOrigins", Then hit "New Instance"  ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/3858cef7-9e9f-4d2c-9fb0-70e2627e98ad)
+
 
   
 ## For Prism:
 
-- Hit Add instance ![example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/e01c0be9-1eaa-4f42-a60f-d51b3b1a0340)
+- Hit "Add Instance ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/d7017f1c-221d-49a1-958c-844d501d8006)
 
-- Go on the import tab and give it the link or give it the file directory ![Example](https://github.com/Zainothy/SimpleOrigins/assets/121804603/29c45b3e-b640-41d1-8041-8043809fd756)
+- Then Go on the Modrinth tab and Search "SimpleOrigins", click on it and hit ok ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/99c805f0-e296-423e-b494-b22b37e60624)
+
+
+## Updating an Already Installed Instance: 
+
+### ATL: 
+
+ATLauncher should automatically prompt you for an update before you launch the instance 
+
+### Prism: 
+
+- Go to your Instance and hit Control+ I on it ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/aa5b9cf4-de1b-47c5-8a84-274f732f5fa8)
+- This Will Open  Up a new Window, Go to the modrinth tab and hit "Update Pack" ![image](https://github.com/Zainothy/SimpleOrigins/assets/121804603/131fecb0-9a1b-4277-b4ef-52cee6c9c40c)
+
+
   
 # FAQ:
 ### I get a java error when trying to launch the game in Prism:
