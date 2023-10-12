@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "73b06f647153071cac09609bb99b9d08ef179528a0c583b86543924911d24b52"
-
-[[files]]
 file = "mods/3dskinlayers-fabric-1.5.4-mc1.20.1.jar"
 hash = "23442876f9aa6e9b51851c65b71dfe827956785c76623b331f48eaf2cab503c1"
 
