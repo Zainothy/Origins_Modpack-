@@ -75,11 +75,7 @@ Found in the [Modrinth](https://modrinth.com/modpack/simpleorigins/) or the rele
   
   [Nostalgia Shader, rre36](https://modrinth.com/shader/nostalgia-shader/version/5.0)
 
-  [Astralex Shader](https://modrinth.com/shader/astralex)
-
   [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
-  
-  [Soft Voxels Lite](https://modrinth.com/shader/soft-voxels-lite)
   
   [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) 
 
