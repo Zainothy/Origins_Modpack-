@@ -1,0 +1,5 @@
+# Exclude exported CurseForge zip files (remove the "#" once all shader packs are removed)
+#*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
