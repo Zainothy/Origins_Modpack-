@@ -1,12 +1,12 @@
-name = "Origins Modpack"
+name = "SimpleOrigins"
 author = "Zainothy"
-version = "6.2.2"
+version = "7.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fbe0fc0c717ad60e468e049ede3ea91d6dc6851caa96f0f8d5040f96bbc938ca"
+hash = "825f33417d28c1716f253467caf9d47c89441a08f7ce91b538ba2de48d2341e8"
 
 [versions]
 fabric = "0.14.22"
