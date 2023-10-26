@@ -1,12 +1,12 @@
 name = "SimpleOrigins"
 author = "Zainothy"
-version = "10.0.0"
+version = "10.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "56076b259338f1c7939e596a910b2cc76674b165c4a254bc36d8298b34f90835"
+hash = "a97aab34d4a25270e10dd4bf8fecf3a1c0166e1302e8178127675a4641633bcf"
 
 [versions]
 fabric = "0.14.23"
