@@ -1,13 +1,13 @@
 name = "SimpleOrigins"
 author = "Zainothy"
-version = "10.1.0"
+version = "10.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a97aab34d4a25270e10dd4bf8fecf3a1c0166e1302e8178127675a4641633bcf"
+hash = "4517b980384039b75f426f8b6c4a27091016c1829b5c483411262576843d160b"
 
 [versions]
-fabric = "0.14.23"
+fabric = "0.14.24"
 minecraft = "1.20.1"
