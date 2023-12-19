@@ -1,12 +1,13 @@
-#Mon Oct 09 20:51:16 BST 2023
-resourcepackReflectionsEnabled=true
+#Sat Oct 21 18:15:27 BST 2023
 PURKINJE_EFFECT=false
 ssptEmissionMode=2
 ResolutionScale=1.0
-pomSamples=64
+waveMode=1
 motionblurToggle=false
 fogDensityMult=0.1
 labEmissionCurve=2.0
 TAAU_FXAA_PostPass=false
+resourcepackReflectionsEnabled=true
+pomSamples=64
 vertexAttributeFix=true
 fogVolumeEnabled=false
